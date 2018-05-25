@@ -1,0 +1,848 @@
+[ 2018-05-25T15:26:57+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.131375s][吞吐率：7.61req/s] [内存消耗：222.07kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T15:56:25+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.026354s][吞吐率：37.95req/s] [内存消耗：222.05kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:00:48+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.036325s][吞吐率：27.53req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:01:25+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.035930s][吞吐率：27.83req/s] [内存消耗：222.18kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:01:37+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.047585s][吞吐率：21.02req/s] [内存消耗：222.14kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:01:45+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.049077s][吞吐率：20.38req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:01:49+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.025145s][吞吐率：39.77req/s] [内存消耗：222.04kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:02:09+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.038575s][吞吐率：25.92req/s] [内存消耗：222.10kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:02:49+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.044245s][吞吐率：22.60req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:03:14+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.020131s][吞吐率：49.67req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:04:23+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.078037s][吞吐率：12.81req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:05:00+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.041369s][吞吐率：24.17req/s] [内存消耗：222.15kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:05:09+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.023375s][吞吐率：42.78req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:05:24+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.029321s][吞吐率：34.11req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:05:59+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.066527s][吞吐率：15.03req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:06:07+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.045448s][吞吐率：22.00req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:06:13+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.065808s][吞吐率：15.20req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:06:36+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.027552s][吞吐率：36.30req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:08:07+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.030213s][吞吐率：33.10req/s] [内存消耗：222.21kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:09:05+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.035486s][吞吐率：28.18req/s] [内存消耗：222.21kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:09:33+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.042332s][吞吐率：23.62req/s] [内存消耗：222.21kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:09:52+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.044369s][吞吐率：22.54req/s] [内存消耗：222.14kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:10:09+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.039398s][吞吐率：25.38req/s] [内存消耗：222.21kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:10:14+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.053841s][吞吐率：18.57req/s] [内存消耗：222.14kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:10:18+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.021893s][吞吐率：45.68req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:10:31+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.043939s][吞吐率：22.76req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:10:39+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.041847s][吞吐率：23.90req/s] [内存消耗：222.14kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:11:17+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.023367s][吞吐率：42.80req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:11:27+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.031949s][吞吐率：31.30req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:11:38+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.035816s][吞吐率：27.92req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:23:38+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.031127s][吞吐率：32.13req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:23:44+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.047402s][吞吐率：21.10req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:24:04+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.037151s][吞吐率：26.92req/s] [内存消耗：222.11kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:27:17+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.038353s][吞吐率：26.07req/s] [内存消耗：222.08kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:28:17+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.046999s][吞吐率：21.28req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:29:20+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.024412s][吞吐率：40.96req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:29:34+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.025458s][吞吐率：39.28req/s] [内存消耗：222.18kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:29:39+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.042937s][吞吐率：23.29req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:30:39+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.035390s][吞吐率：28.26req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:31:39+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.043797s][吞吐率：22.83req/s] [内存消耗：222.88kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:31:47+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.034964s][吞吐率：28.60req/s] [内存消耗：222.17kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:42:10+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.072192s][吞吐率：13.85req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:45:12+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.026211s][吞吐率：38.15req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:48:20+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.041720s][吞吐率：23.97req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:48:58+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.023376s][吞吐率：42.78req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:49:32+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.033244s][吞吐率：30.08req/s] [内存消耗：222.20kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:49:51+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.040105s][吞吐率：24.93req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:49:53+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.022462s][吞吐率：44.52req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:50:04+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.042148s][吞吐率：23.73req/s] [内存消耗：222.19kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:50:22+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.029693s][吞吐率：33.68req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:50:37+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.021827s][吞吐率：45.81req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:50:46+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.024659s][吞吐率：40.55req/s] [内存消耗：222.13kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-05-25T16:53:21+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.034216s][吞吐率：29.23req/s] [内存消耗：222.16kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------

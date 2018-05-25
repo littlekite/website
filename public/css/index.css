@@ -16,6 +16,30 @@ body {
     display: block;
     max-height: none!important;
 }
+.intro-video {
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 640px;
+    position: relative;
+}
+.intro-iframe {
+    padding-top: 56.25%;
+    position: relative;
+    transition-duration: .5s;
+    transition-property: opacity;
+}
+.intro-iframe iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.bd-focus {
+    margin: 4rem auto 0;
+    max-width: 1080px;
+}
 @media screen and (min-width: 1088px) .intro-columns{
     display: flex;
     justify-content: center;

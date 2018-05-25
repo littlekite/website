@@ -6,10 +6,10 @@
     <meta name="description" content="" />
     <meta name="robots" content="INDEX,FOLLOW" />
     <title>Hello Bulma!</title>
-    <link rel="stylesheet" href="http://127.0.0.1/kite/public/css/bulma.min.css">
-    <link rel="icon" href="http://127.0.0.1/kite/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="http://127.0.0.1/kite/favicon.ico" type="image/x-icon" />
-    <link href="http://127.0.0.1/kite/public/css/index.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://127.0.0.1/x/website/public/css/bulma.min.css">
+    <link rel="icon" href="http://127.0.0.1/x/website/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://127.0.0.1/x/website/favicon.ico" type="image/x-icon" />
+    <link href="http://127.0.0.1/x/website/public/css/index.css" rel="stylesheet" type="text/css" />
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>  
   </head>
   <body>
@@ -186,22 +186,21 @@
     </nav>
 <section class="hero intro">
   <div class="hero-body">
-  
     <div class="container">
       <div class="columns">
       <div class="column">
-      
-             <div class="intro-iframe">
-              <iframe id="introIframe" src="" width="740" height="538" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-vimeo-tracked="true"></iframe>
+        <div id="introVideo" class="intro-video">
+            <div class="intro-iframe">
+              <iframe id="introIframe" src="http://player.youku.com/embed/XMzM3NzEzNTYwOA=="  frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-vimeo-tracked="true"></iframe>
             </div>
+        </div>   
       </div>
       <div class="column">
            <h1 class="title intro-title">
               <strong>Bulma</strong> is an open source CSS framework based on <strong>Flexbox</strong> and used by more than <strong>100,000</strong> developers.
-            </h1>
+            </h1> 
       </div>
     </div>
-
 <div class="bd-focus">
   <nav class="columns">
     <a class="bd-focus-item column has-text-centered" href="https://bulma.io/documentation/overview/responsiveness">
