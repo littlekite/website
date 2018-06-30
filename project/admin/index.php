@@ -19,7 +19,7 @@ class index extends common{
         //存入数据库
         
         //url path 
-        //$temp->assign('current_path', $tem_path);
+        $temp->assign('view_url', VIEW_URL);
         $temp->display('index');   
     }  	   
 }
