@@ -1,0 +1,612 @@
+[ 2018-07-30T09:19:28+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.160631s][吞吐率：6.23req/s] [内存消耗：289.34kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T09:24:33+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.020420s][吞吐率：48.97req/s] [内存消耗：289.47kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T09:25:26+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.017327s][吞吐率：57.71req/s] [内存消耗：289.43kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T09:25:33+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.030234s][吞吐率：33.08req/s] [内存消耗：289.47kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T09:58:07+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.034088s][吞吐率：29.34req/s] [内存消耗：289.47kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T13:59:15+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.043385s][吞吐率：23.05req/s] [内存消耗：289.34kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:00:28+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/admin
+[ log ] 127.0.0.1/x/website/admin [运行时间：0.019696s][吞吐率：50.77req/s] [内存消耗：289.34kb] [文件加载：12]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\admin\\common.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  11 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_account',
+  'partitions' => NULL,
+  'type' => 'system',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 1,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:00:31+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.010203s][吞吐率：98.01req/s] [内存消耗：227.30kb] [文件加载：10]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T14:01:40+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.017926s][吞吐率：55.78req/s] [内存消耗：329.00kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:15:34+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.012952s][吞吐率：77.21req/s] [内存消耗：322.00kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:16:02+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.036846s][吞吐率：27.14req/s] [内存消耗：321.42kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:16:47+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.024042s][吞吐率：41.59req/s] [内存消耗：321.42kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:24:36+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.014653s][吞吐率：68.25req/s] [内存消耗：321.48kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:30:40+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.015986s][吞吐率：62.55req/s] [内存消耗：322.12kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:31:49+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.051167s][吞吐率：19.54req/s] [内存消耗：322.09kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:46:27+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.025620s][吞吐率：39.03req/s] [内存消耗：324.58kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:47:18+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.016204s][吞吐率：61.71req/s] [内存消耗：324.70kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:50:18+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.012788s][吞吐率：78.20req/s] [内存消耗：324.82kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:52:27+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.020412s][吞吐率：48.99req/s] [内存消耗：324.78kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------
+[ 2018-07-30T14:53:00+08:00 ] 127.0.0.1 127.0.0.1 GET /x/website/
+[ log ] 127.0.0.1/x/website/ [运行时间：0.024981s][吞吐率：40.03req/s] [内存消耗：324.04kb] [文件加载：11]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\index.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Kite.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Route.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\home\\index.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\core\\Template.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  9 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+  10 => 'D:\\wamp64\\www\\x\\website\\runtime\\cache\\6a992d5529f459a44fee58c733255e86.php',
+)
+[ sql ] [ EXPLAIN : array (
+  'id' => 1,
+  'select_type' => 'SIMPLE',
+  'table' => 'k_article',
+  'partitions' => NULL,
+  'type' => 'ALL',
+  'possible_keys' => NULL,
+  'key' => NULL,
+  'key_len' => NULL,
+  'ref' => NULL,
+  'rows' => 3,
+  'filtered' => 100,
+  'extra' => NULL,
+) ]
+
+---------------------------------------------------------------

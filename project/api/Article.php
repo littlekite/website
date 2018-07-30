@@ -11,10 +11,19 @@ class Article{
     public function addArticle(){  
         $res = [];
         $input = input();
-         
-        $res['status'] = 2;//失败
-        $res['info'] = "参数不全";
-        
+        if (!empty($input['newsName']) && !empty($input['abstract']) && !empty($input['content'])  && !empty($input['classify']) && isset($input['newsStatus']) && !empty($input['newsTime'])) {
+            $res_add =  Db::execute("INSERT INTO `k_article` (`title`, `add_date`, `content`, `author`, `abstract`, `classify`, `newsStatus`) VALUES ('$input[newsName]', '$input[newsTime]', '$input[content]', '$input[classify]', 'admin', '$input[newsStatus]', '$input[newsStatus]')");
+            if ($res_add) {
+                $res['status'] = 1;//失败
+                $res['info'] = "添加成功"; 
+            } else {
+                $res['status'] = 2;//失败
+                $res['info'] = "添加失败"; 
+            }
+        } else {
+            $res['status'] = 2;//失败
+            $res['info'] = "参数不全"; 
+        }
         echo json_encode($res);  
     }
 }

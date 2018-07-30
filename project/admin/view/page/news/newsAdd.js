@@ -74,7 +74,7 @@ layui.use(['form','layer','layedit','laydate','upload'],function(){
         // 实际使用时的提交信息
          $.post("/x/website/api.php",{
              newsName : $(".newsName").val(),  //文章标题
-             //m:'10',//请求地址
+             m:'10',//请求地址
              abstract : $(".abstract").val(),  //文章摘要
              content : layedit.getContent(editIndex).split('<audio controls="controls" style="display: none;"></audio>')[0],  //文章内容
              newsImg : $(".thumbImg").attr("src"),  //缩略图

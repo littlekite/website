@@ -1,0 +1,105 @@
+[ 2018-07-30T09:25:48+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.011657s][吞吐率：85.79req/s] [内存消耗：152.39kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T09:57:21+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.021359s][吞吐率：46.82req/s] [内存消耗：156.50kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T09:58:15+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.019352s][吞吐率：51.67req/s] [内存消耗：156.59kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T09:58:33+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.010200s][吞吐率：98.04req/s] [内存消耗：156.48kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T09:58:39+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.008647s][吞吐率：115.65req/s] [内存消耗：157.09kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T09:58:43+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.007104s][吞吐率：140.77req/s] [内存消耗：156.46kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------
+[ 2018-07-30T13:59:51+08:00 ] 127.0.0.1 127.0.0.1 POST /x/website/api.php
+[ log ] 127.0.0.1/x/website/api.php [运行时间：0.029038s][吞吐率：34.44req/s] [内存消耗：157.54kb] [文件加载：9]
+array (
+  0 => 'D:\\wamp64\\www\\x\\website\\api.php',
+  1 => 'D:\\wamp64\\www\\x\\website\\core\\Autoload.php',
+  2 => 'D:\\wamp64\\www\\x\\website\\core\\Common.php',
+  3 => 'D:\\wamp64\\www\\x\\website\\core\\Input.php',
+  4 => 'D:\\wamp64\\www\\x\\website\\core\\Db.php',
+  5 => 'D:\\wamp64\\www\\x\\website\\Config.php',
+  6 => 'D:\\wamp64\\www\\x\\website\\project\\api\\static\\Method.php',
+  7 => 'D:\\wamp64\\www\\x\\website\\project\\api\\Article.php',
+  8 => 'D:\\wamp64\\www\\x\\website\\core\\Log.php',
+)
+
+---------------------------------------------------------------

@@ -184,6 +184,9 @@
       </div>
       </div>
     </nav>
+    {foreach ($list as $k=>$r)}
+    {$r['content']|htmlspecialchars_decode}
+    {/foreach}
 <section class="hero intro">
   <div class="hero-body">
     <div class="container">
@@ -196,6 +199,7 @@
         </div>   
       </div>
       <div class="column">
+           
            <h1 class="title intro-title">
               <strong>Bulma</strong> is an open source CSS framework based on <strong>Flexbox</strong> and used by more than <strong>100,000</strong> developers.
             </h1> 
